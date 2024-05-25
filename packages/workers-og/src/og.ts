@@ -89,8 +89,8 @@ export const og = async ({ element, options }: Props) => {
       ? options.fonts
       : [
           {
-            name: "Bitter",
-            data: await loadGoogleFont({ family: "Bitter", weight: 600 }),
+            name: "Noto Sans JP",
+            data: await loadGoogleFont({ family: "Noto Sans JP", weight: 600 }),
             weight: 500,
             style: "normal",
           },

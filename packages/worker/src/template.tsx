@@ -61,7 +61,7 @@ export const template = ({
             style={{
               fontSize: 56,
               margin: 0,
-              fontFamily: "Bitter",
+              fontFamily: "Noto Sans JP",
               fontWeight: 500,
               color: "#fff",
             }}
